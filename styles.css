@@ -1,0 +1,11 @@
+body{text-align: center;
+background-color: black;
+color: white;}
+h1{font-family: 'Lobster', cursive; font-size: 80px; color: white;}
+h2{font-family: 'Dancing Script', cursive; font-size: 50px;}
+p{font-size: 30px;}
+.award {color:yellow; border:solid; }
+.award2 {color:red; border:solid; }
+.award3 {color:blue; border:solid; }
+.award4 {color:grey; border:solid; }
+.award5 {color:lightblue; border:solid; }
